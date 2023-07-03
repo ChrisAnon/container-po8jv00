@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ChrisAnon",
+  "repo": "container-po8jv00",
+  "name": "ChrisAnon",
+  "email": "cwindy2019@gmail.com",
+}
